@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const LogItem = ({ log }) => {
   return (
-    <li className="collection ">
+    <li className="collection-item ">
       <div>
         <a
           href="#edit-log-modal"
