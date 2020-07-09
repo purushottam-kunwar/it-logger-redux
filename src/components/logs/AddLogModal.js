@@ -18,9 +18,9 @@ const AddLogModal = () => {
   };
 
   return (
-    <div id="edit-log-modal" className="modal" style={modalStyle}>
+    <div id="add-log-modal" className="modal" style={modalStyle}>
       <div className="modal-content">
-        <h4> Enter System LOg</h4>
+        <h4> Enter System Log</h4>
         <div className="row">
           <div className="input-field">
             <input
